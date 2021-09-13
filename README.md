@@ -1,7 +1,7 @@
 # Triângulo de Pascal
 
 <div>
-  <p> Um dos padrões numéricos mais interessantes da Matemática é o Triângulo de Pascal, um triângulo numérico infinito formado por números binomiais.</p>
+  <p> Um dos padrões numéricos mais interessantes da Matemática é o Triângulo de Pascal, um triângulo numérico formado por números binomiais.</p>
 </div>
 
 <div align = "center">
