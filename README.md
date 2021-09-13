@@ -18,7 +18,7 @@ A primeira diagonal corresponde à sequência {1, 1, 1, 1, ... }.
 
 + Segunda Diagonal
 
-A segunda diagonal corresponde a sequência de contagem {1, 2, 3, 4, ... }.
+A segunda diagonal corresponde à sequência de contagem {1, 2, 3, 4, ... }.
 
 + Terceira diagonal
 
